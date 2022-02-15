@@ -14,7 +14,9 @@ NRC: 10149
 * Comparar las mediciones realizadas en un osciloscopio y un multimetro
 * Interpretar las diferentes mediciones que muestra un osciloscopio para voltajes de ca.
 ## 2. Marco teorico
-* 
+
+![map](https://user-images.githubusercontent.com/93224166/154075258-6de331ce-e316-4081-87b1-25b1e26ed4e4.png)
+
 ## 3. Explicacion y Procedimiento
 ### Materiales
 
@@ -80,3 +82,8 @@ No coinciden, debido a que el multimetro marca valores rms y el osciloscopio mar
 * El valor del voltaje mostrado en el osciloscopio varia de la del multimetro por un factor de error cuadratico medio llamado "RMS" (Root Mean Square).
 * Un osciloscopio puede mostrar diferentes tipos de ondas dependiendo de la fuente que este conectado y de la frecuencia a la que se muevan los valores de voltaje
 ## 6. Bibliografia
+
+Floyd, F. (s. f.). Principios de Circuitos electricos.
+(N.d.). Ejemplos.Net. Retrieved February 15, 2022, from https://ejemplos.net/caracteristicas-de-la-onda-senoidal/
+
+
