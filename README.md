@@ -3,6 +3,7 @@ INTEGRANTES
 
 1. Araque Jaime
 2. ALEXANDER BALLESTEROS
+3. Morales Kevin
 
 
 NRC: 10149
