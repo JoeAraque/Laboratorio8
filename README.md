@@ -78,6 +78,7 @@ En el multimetro me da un valor de 14.05 v en cambio el osciloscopio me da un va
 
 No coinciden, debido a que el multimetro marca valores rms y el osciloscopio marca valores pico.
 ## 4. Video 
+https://youtu.be/Vd9XL_xMBXw
 ## 5. Conclusiones
 * Las fuentes de corriente alterna varían en magnitud a lo largo del tiempo describiendo ondas con voltaje pico, pico-pico o rms.
 * El valor del voltaje mostrado en el osciloscopio varia de la del multimetro por un factor de error cuadratico medio llamado "RMS" (Root Mean Square).
